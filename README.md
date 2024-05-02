@@ -38,7 +38,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/KStar-coder/BrainWave.git
-cd brainwave
+cd BrainWave
 ```
 
 **Installation**
